@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @joedobrovolc
-- 👀 I’m interested in ... VR/AR/XR dev, Cryptocurrency dev, heavy metal, software engineering
-- 🌱 I’m currently learning ... Cryptocurrency in JS, Unity animation, Bass guitar, Drums
-- 💞️ I’m looking to collaborate on ... VR/AR applications for 
+- 👀 I’m interested in ... heavy metal, software engineering 
 - 📫 How to reach me ... email me at dobrovolcj@gmail.com
 
 <!---
